@@ -1,0 +1,27 @@
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\toshk\Desktop\Programming\OOP\ExamPreparation-22.08.21\01\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
