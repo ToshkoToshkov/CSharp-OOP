@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\bin\Debug\net6.0\01.Cars.exe
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\bin\Debug\net6.0\01.Cars.deps.json
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\bin\Debug\net6.0\01.Cars.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\bin\Debug\net6.0\01.Cars.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\bin\Debug\net6.0\01.Cars.pdb
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\refint\01.Cars.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.pdb
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\01.Cars.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\01.Cars\obj\Debug\net6.0\ref\01.Cars.dll
