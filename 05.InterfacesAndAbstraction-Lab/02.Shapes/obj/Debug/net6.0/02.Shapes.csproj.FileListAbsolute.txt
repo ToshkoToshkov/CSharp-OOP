@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\bin\Debug\net6.0\02.Shapes.exe
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\bin\Debug\net6.0\02.Shapes.deps.json
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\bin\Debug\net6.0\02.Shapes.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\bin\Debug\net6.0\02.Shapes.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\bin\Debug\net6.0\02.Shapes.pdb
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\refint\02.Shapes.dll
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.pdb
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\02.Shapes.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\OOP\05.InterfacesAndAbstractionLab\02.Shapes\obj\Debug\net6.0\ref\02.Shapes.dll
