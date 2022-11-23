@@ -1,0 +1,18 @@
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\03\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\03\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\03\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\03\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\toshk\Desktop\Programming\OOP\09.Projects\02.OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
