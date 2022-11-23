@@ -1,0 +1,13 @@
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\04\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
