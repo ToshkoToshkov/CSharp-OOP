@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FFfsSrBEZKB/uTJqOLnXJ6AW051VNS/uMf13o+Hl+SREUGYR+w9VV3eO5VpjFNqIezeAhM0g/j9g86QSnxwWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toshk\\Desktop\\Programming\\OOP\\08.UnitTestingLab\\02.CarManager.Tests\\02.CarManager.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toshk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
