@@ -1,0 +1,13 @@
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\toshk\Desktop\задачи C#\OOP\ExamPreparation-22.08.21\05\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
