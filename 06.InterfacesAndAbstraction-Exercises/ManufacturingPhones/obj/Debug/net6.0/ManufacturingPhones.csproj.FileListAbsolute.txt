@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\bin\Debug\net6.0\ManufacturingPhones.exe
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\bin\Debug\net6.0\ManufacturingPhones.deps.json
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\bin\Debug\net6.0\ManufacturingPhones.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\bin\Debug\net6.0\ManufacturingPhones.dll
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\bin\Debug\net6.0\ManufacturingPhones.pdb
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.dll
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\refint\ManufacturingPhones.dll
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.pdb
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ManufacturingPhones.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Exercises 2023\OOP\Shapes\ManufacturingPhones\obj\Debug\net6.0\ref\ManufacturingPhones.dll
