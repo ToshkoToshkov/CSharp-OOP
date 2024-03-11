@@ -76,16 +76,5 @@ namespace BankSafe.Tests
 
             Assert.AreEqual(ex.Message, "Item in that cell doesn't exists!");
         }
-
-        //[Test]
-        //public void WhenRemoveAndItemInThatCellNotExist()
-        //{
-        //    Exception ex = Assert.Throws<ArgumentException>(() =>
-        //    {
-        //        vault.AddItem("A2", item);
-        //    });
-
-        //    Assert.AreEqual(ex.Message, "Item in that cell doesn't exists!");
-        //}
     }
 }
